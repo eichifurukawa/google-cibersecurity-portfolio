@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻Portfolio activity of Google's "Foundations of Cibersecurity" Online Course👨‍💻</h1>
 
-## 📄Activity Overview
+## 📄Activity Overview📄
 <p align="left">
 In this activity, you will review the professional statement outline to create a professional statement that you can include as part of your cybersecurity portfolio documentation. Previously, you learned about options for creating and hosting a cybersecurity portfolio. 
 
